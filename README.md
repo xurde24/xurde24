@@ -23,6 +23,7 @@
   <a href="https://www.linkedin.com/in/shreyansh-anand-751761283" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>&nbsp;&nbsp;
+  
   <a href="https://www.instagram.com/anand_24993/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
