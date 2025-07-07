@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://x.com/ShreyanshA41331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yashraj" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/shreyansh-anand-751761283" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yashraj" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/anand_24993/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Yashraj Kushwah" height="30" width="40" /></a>
+<a href="https://www.instagram.com/anand_24993/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Yashraj Kushwah" height="30" width="40" /></a>
 </p>
 
 # 💻 Tech Stack:
