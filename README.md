@@ -36,11 +36,11 @@
 <!-- Use correct markdown and remove line breaks from URLs -->
 <div align="center">
   <a href="https://github.com/Sankalp-Sinha">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sankalp-Sinha&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sankalp-Sinha&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sankalp-Sinha&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sankalp-Sinha&theme=2077" height="180em" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sankalp-Sinha&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=xurde24&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xurde24&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xurde24&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xurde24&theme=2077" height="180em" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xurde24&theme=2077" height="180em" />
   </a>
 </div>
 
@@ -57,8 +57,8 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=xurde24&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=xurde24&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xurde24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=xurde24&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=xurde24&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xurde24&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=xurde24)
