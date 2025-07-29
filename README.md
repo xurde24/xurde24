@@ -52,7 +52,7 @@
 
 <h2 align="left">⚡ Activity Graph</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sankalp-Sinha&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xurde24&theme=react-dark" />
 </div>
 
 ---
